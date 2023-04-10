@@ -11,4 +11,4 @@ PL: Jest to prosta strona internetowa - panel admina - z Odin Project
   - JS
 
 ## URL 
-admindashboard-op.netlify.app/
+https://admindashboard-op.netlify.app/
